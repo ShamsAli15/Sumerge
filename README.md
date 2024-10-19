@@ -26,7 +26,7 @@
 
 **4. Validation of Required Fields:**
 
-* **Precondition:** The user has left one or both fields empty.
+* **Precondition:** The user has left one field empty.
 * **Steps:**
     * Click the login button.
 * **Expected Result:** An error message is displayed within a div with the class "error-message-container error". The message should indicate that the missing field (username or password) is required.
