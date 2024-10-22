@@ -30,3 +30,11 @@
 * **Steps:**
     * Click the login button.
 * **Expected Result:** An error message is displayed within a div with the class "error-message-container error". The message should indicate that the missing field (username or password) is required.
+
+* **⚙️ Tools:**
+1- Selenium4
+2- TestNG
+3- Java utility section for Data-Driven
+4- WebDriver Manager
+5- run with TestNG XML file
+6- Git and GitHub for version control
